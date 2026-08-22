@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amin Boumerdassi",
+    "section": "",
+    "text": "Lorem ipsum, hocus pocus."
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2062692066696c652d706572736f6e203e7d7d-about-me",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2062692066696c652d706572736f6e203e7d7d-about-me",
+    "title": "Amin Boumerdassi",
+    "section": "",
+    "text": "Lorem ipsum, hocus pocus."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Amin Boumerdassi",
+    "section": "Education",
+    "text": "Education\n\nPhD in Physics\nThe University of Auckland"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Amin Boumerdassi",
+    "section": "Experience",
+    "text": "Experience\nMinistry of Magic | Chief Mage | April 2018 - present"
+  }
+]
