@@ -1,0 +1,34 @@
+---
+title: "Amin Boumerdassi"
+about:
+  template: trestles
+  image: assets/profile_pic.jpg
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/AminBoumerdassi
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8260-4072
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aminboumerdassi/
+
+---
+
+## {{< bi file-person >}} About me
+
+Lorem ipsum, hocus pocus.
+
+
+
+
+## Education
+
+### PhD in Physics
+The University of Auckland
+
+
+## Experience
+
+Ministry of Magic | Chief Mage | April 2018 - present
