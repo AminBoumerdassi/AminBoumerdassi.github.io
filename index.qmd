@@ -19,13 +19,16 @@ about:
 ---
 
 ## {{< fa image-portrait >}} About me
+**Field:** gravitational wave data analysis.
 
-**Background to be added!**
+**Focus:** extreme mass ratio inspirals from the Laser Interferometer Space Antenna.
 
+**Tools:** machine learning and statistical techniques.
 
-
+**Past works:** inference bias estimation, ML-based data cleaning.
 
 ## {{< fa graduation-cap >}} Education
+<!-- Consider doing an HTML table -->
 
 **PhD in Physics** | The University of Auckland, NZ | Dec 2022 - Jun 2026
 
