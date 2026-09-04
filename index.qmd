@@ -18,6 +18,7 @@ about:
     - text: "{{< fa file >}} CV (TBA)"
 ---
 
+<!-- Can restrict the about section to just the about me bit! -->
 ## {{< fa image-portrait >}} About me
 **Field:** gravitational wave data analysis.
 
