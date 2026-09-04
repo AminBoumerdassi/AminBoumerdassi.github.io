@@ -1,5 +1,13 @@
 ---
 title: "Publications"
+bibliography: references.bib
+# format:
+#   pdf: 
+#     cite-method: biblatex
+---
+Add Google Scholar link!
+---
+nocite: |
+  @*
 ---
 
-To be added v3!

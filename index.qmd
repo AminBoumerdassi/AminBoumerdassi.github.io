@@ -16,19 +16,19 @@ about:
 
 ---
 
-## {{< bi file-person >}} About me
+## {{< fa image-portrait >}} About me
 
 Lorem ipsum, hocus pocus.
 
 
 
 
-## Education
+## {{< fa graduation-cap >}} Education
 
 ### PhD in Physics
 The University of Auckland
 
 
-## Experience
+## {{< fa briefcase >}} Experience
 
 Ministry of Magic | Chief Mage | April 2018 - present
