@@ -13,22 +13,27 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/aminboumerdassi/
-
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=LP2dbHsAAAAJ&hl=en&oi=ao
+    - text: "{{< fa file >}} CV (TBA)"
 ---
 
 ## {{< fa image-portrait >}} About me
 
-Lorem ipsum, hocus pocus.
+**Background to be added!**
 
 
 
 
 ## {{< fa graduation-cap >}} Education
 
-### PhD in Physics
-The University of Auckland
+**PhD in Physics** | The University of Auckland, NZ | Dec 2022 - Jun 2026
+
+**Integated Masters in Physics (Mphys)** | Cardiff University, UK | Sep 2018 - Jun 2022
 
 
 ## {{< fa briefcase >}} Experience
 
-Ministry of Magic | Chief Mage | April 2018 - present
+**Graduate Teaching Assistant** | The University of Auckland, NZ | 2023 - 2025
+
+**Demonstrator** | Cardiff University, UK | 2021 - 2022

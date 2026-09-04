@@ -1,13 +1,11 @@
 ---
 title: "Publications"
 bibliography: references.bib
-# format:
-#   pdf: 
-#     cite-method: biblatex
----
-Add Google Scholar link!
----
+# cite-method: natbib
+# biblio-title: "Custom Title"
 nocite: |
   @*
 ---
-
+::: {#refs}
+:::
+<!-- Add Google Scholar link! -->

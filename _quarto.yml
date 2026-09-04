@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Amin Boumerdassi"
+  search: false
   navbar:
     left:
       - href: index.qmd
