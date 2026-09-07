@@ -1,37 +1,44 @@
 [
   {
+    "objectID": "talks_and_posters.html",
+    "href": "talks_and_posters.html",
+    "title": "Talks & Posters",
+    "section": "",
+    "text": "Include a list of past talks and posters! Perhaps this can be done in a bibliography style?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amin BoumerdassiEarly career researcher",
+    "section": "",
+    "text": "Github\n  \n  \n      ORCID\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \n\n\n\nAs a researcher and physicist, I tackle data analysis problems in gravitational wave astronomy using statistical and machine learning techniques.\nI’ve worked with LIGO and LISA on problems such as detecting unexpected noise sources, quantifying statistical biases, and ML-based approaches to noise removal.\nMy contributions will help to facilitate proposed tests of general relativity and astrophysics, ensuring they can be performed with minimal compromise."
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120696d6167652d706f727472616974203e7d7d-summary",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120696d6167652d706f727472616974203e7d7d-summary",
+    "title": "Amin BoumerdassiEarly career researcher",
+    "section": "",
+    "text": "As a researcher and physicist, I tackle data analysis problems in gravitational wave astronomy using statistical and machine learning techniques.\nI’ve worked with LIGO and LISA on problems such as detecting unexpected noise sources, quantifying statistical biases, and ML-based approaches to noise removal.\nMy contributions will help to facilitate proposed tests of general relativity and astrophysics, ensuring they can be performed with minimal compromise."
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612067726164756174696f6e2d636170203e7d7d-education",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612067726164756174696f6e2d636170203e7d7d-education",
+    "title": "Amin BoumerdassiEarly career researcher",
+    "section": " | Education",
+    "text": "| Education\n\nPhD in Physics | The University of Auckland, NZ | Dec 2022 - Jun 2026\nIntegated Masters in Physics (Mphys) | Cardiff University, UK | Sep 2018 - Jun 2022"
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-experience",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-experience",
+    "title": "Amin BoumerdassiEarly career researcher",
+    "section": " | Experience",
+    "text": "| Experience\nGraduate Teaching Assistant | The University of Auckland, NZ | 2023 - 2025\nDemonstrator | Cardiff University, UK | 2021 - 2022"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
     "text": "Boumerdassi, Amin, Matthew C Edwards, Avi Vajpeyi, and Ollie Burke. 2026. “First-Time Assessment of Glitch-Induced Bias and Uncertainty in Inference of Extreme Mass Ratio Inspirals.” Physical Review D 113 (10): 104044."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Amin Boumerdassi",
-    "section": "",
-    "text": "Field: gravitational wave data analysis.\nFocus: extreme mass ratio inspirals from the Laser Interferometer Space Antenna.\nTools: machine learning and statistical techniques.\nPast works: inference bias estimation, ML-based data cleaning."
-  },
-  {
-    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120696d6167652d706f727472616974203e7d7d-about-me",
-    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120696d6167652d706f727472616974203e7d7d-about-me",
-    "title": "Amin Boumerdassi",
-    "section": "",
-    "text": "Field: gravitational wave data analysis.\nFocus: extreme mass ratio inspirals from the Laser Interferometer Space Antenna.\nTools: machine learning and statistical techniques.\nPast works: inference bias estimation, ML-based data cleaning."
-  },
-  {
-    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612067726164756174696f6e2d636170203e7d7d-education",
-    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612067726164756174696f6e2d636170203e7d7d-education",
-    "title": "Amin Boumerdassi",
-    "section": " Education",
-    "text": "Education\n\nPhD in Physics | The University of Auckland, NZ | Dec 2022 - Jun 2026\nIntegated Masters in Physics (Mphys) | Cardiff University, UK | Sep 2018 - Jun 2022"
-  },
-  {
-    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-experience",
-    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-experience",
-    "title": "Amin Boumerdassi",
-    "section": " Experience",
-    "text": "Experience\nGraduate Teaching Assistant | The University of Auckland, NZ | 2023 - 2025\nDemonstrator | Cardiff University, UK | 2021 - 2022"
   }
 ]
