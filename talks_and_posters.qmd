@@ -1,0 +1,5 @@
+---
+title: "Talks & Posters"
+bibliography: references.bib
+---
+Include a list of past talks and posters! Perhaps this can be done in a bibliography style?

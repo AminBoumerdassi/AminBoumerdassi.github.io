@@ -1,6 +1,7 @@
 ---
-title: "Amin Boumerdassi"
+title: "Amin Boumerdassi<br><span style='font-size:0.7em;font-weight: normal'>Early career researcher</span>"
 about:
+  id: hero-heading
   template: trestles
   image: assets/profile_pic.jpg
   image-shape: round
@@ -15,20 +16,34 @@ about:
       href: https://www.linkedin.com/in/aminboumerdassi/
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=LP2dbHsAAAAJ&hl=en&oi=ao
-    - text: "{{< fa file >}} CV (TBA)"
+    # - text: "{{< fa file >}} CV (TBA)"
 ---
 
-<!-- Can restrict the about section to just the about me bit! -->
-## {{< fa image-portrait >}} About me
-**Field:** gravitational wave data analysis.
+:::{#hero-heading}
+
+## {{< fa image-portrait >}} | Summary
+<!-- - Early career researcher in gravitational wave astronomy
+- Physicist by background
+- Specialised in data analysis of gravitational waves
+- Leveraging machine learning and statistical techniques -->
+
+As a researcher and physicist, I tackle data analysis problems in gravitational wave astronomy using statistical and machine learning techniques.
+
+I've worked with [LIGO](https://www.ligo.caltech.edu/) and [LISA](https://www.esa.int/Science_Exploration/Space_Science/LISA) on problems such as detecting unexpected noise sources, quantifying statistical biases, and ML-based approaches to noise removal.
+
+My contributions will help to facilitate proposed tests of general relativity and astrophysics, ensuring they can be performed with minimal compromise.
+
+<!-- **Field:** gravitational wave data analysis.
 
 **Focus:** extreme mass ratio inspirals from the Laser Interferometer Space Antenna.
 
 **Tools:** machine learning and statistical techniques.
 
-**Past works:** inference bias estimation, ML-based data cleaning.
+**Past works:** inference bias estimation, ML-based data cleaning. -->
 
-## {{< fa graduation-cap >}} Education
+:::
+
+## {{< fa graduation-cap >}} | Education
 <!-- Consider doing an HTML table -->
 
 **PhD in Physics** | The University of Auckland, NZ | Dec 2022 - Jun 2026
@@ -36,7 +51,7 @@ about:
 **Integated Masters in Physics (Mphys)** | Cardiff University, UK | Sep 2018 - Jun 2022
 
 
-## {{< fa briefcase >}} Experience
+## {{< fa briefcase >}} | Experience
 
 **Graduate Teaching Assistant** | The University of Auckland, NZ | 2023 - 2025
 

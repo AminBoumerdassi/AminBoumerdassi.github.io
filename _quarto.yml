@@ -2,19 +2,20 @@ project:
   type: website
 
 website:
-  title: "Amin Boumerdassi"
+  title: "{{< fa house >}} | Amin Boumerdassi"
   search: false
   navbar:
     left:
       - href: index.qmd
         text: Bio
       - publications.qmd
+      - href: talks_and_posters.qmd
+        text: Talks & Posters
+      - text: CV (TBA)
   page-footer:
     background: light
     left: "Copyright 2026, Amin Boumerdassi" 
-    right:
-      - href: https://quarto.org/  
-        text: "Made using Quarto"
+    right: "Made using [Quarto](https://quarto.org/), with minimal AI assistance."
 
 
 format:

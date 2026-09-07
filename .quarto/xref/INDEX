@@ -8,5 +8,8 @@
   "publications.qmd": {
     "publications.html": "ef333f50",
     "publications.tex": "2ec39b9f"
+  },
+  "talks_and_posters.qmd": {
+    "talks_and_posters.html": "f53bd02c"
   }
 }
