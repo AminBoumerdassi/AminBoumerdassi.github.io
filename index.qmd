@@ -1,5 +1,6 @@
 ---
 title: "Amin Boumerdassi<br><span style='font-size:0.7em;font-weight: normal'>Early career researcher</span>"
+pagetitle: Home
 about:
   id: hero-heading
   template: trestles
@@ -44,15 +45,16 @@ My contributions will help to facilitate proposed tests of general relativity an
 :::
 
 ## {{< fa graduation-cap >}} | Education
-<!-- Consider doing an HTML table -->
 
-**PhD in Physics** | The University of Auckland, NZ | Dec 2022 - Jun 2026
-
-**Integated Masters in Physics (Mphys)** | Cardiff University, UK | Sep 2018 - Jun 2022
+<div class="grid-container">
+  <div class="grid-item">**PhD in Physics** (Dec 2022 - Jun 2026)<br>*The University of Auckland, New Zealand*</div>
+  <div class="grid-item">**Integated Masters in Physics** (Sep 2018 - Jun 2022)<br>*Cardiff University, United Kingdom*</div>
+</div>
 
 
 ## {{< fa briefcase >}} | Experience
 
-**Graduate Teaching Assistant** | The University of Auckland, NZ | 2023 - 2025
-
-**Demonstrator** | Cardiff University, UK | 2021 - 2022
+<div class="grid-container">
+  <div class="grid-item">**Graduate Teaching Assistant** (2023 - 2025)<br>*The University of Auckland, New Zealand*</div>
+  <div class="grid-item">**Demonstrator** (2021 - 2022)<br>*Cardiff University, United Kingdom*</div>
+</div>

@@ -2,9 +2,10 @@ project:
   type: website
 
 website:
-  title: "{{< fa house >}} | Amin Boumerdassi"
+  title: Amin Boumerdassi #"{{< fa house >}} | Amin Boumerdassi"
   search: false
   navbar:
+    title: "{{< fa house >}} | Amin Boumerdassi"
     left:
       - href: index.qmd
         text: Bio
@@ -15,7 +16,7 @@ website:
   page-footer:
     background: light
     left: "Copyright 2026, Amin Boumerdassi" 
-    right: "Made using [Quarto](https://quarto.org/), with minimal AI assistance."
+    right: Made using [Quarto](https://quarto.org/) <img src="assets/quarto-icon.svg" alt="Quarto" width="16">, with minimal AI assistance.<br>Hosted on [GitHub Pages](https://github.com/AminBoumerdassi/AminBoumerdassi.github.io) {{< fa brands github >}}.
 
 
 format:
@@ -26,6 +27,8 @@ format:
       light: brand
     css: styles.css
     toc: true
+
+# Use https://heropatterns.com/ for background, specifically "topography"
 
 filters:
   - auto-dark

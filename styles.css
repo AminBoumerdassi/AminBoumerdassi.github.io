@@ -1,1 +1,16 @@
 /* css styles */
+/* Define the grid container class */
+.grid-container {
+  display: grid; /* Turns the element into a grid */
+  grid-template-columns: 1; /* Creates 3 equal-width columns */
+  grid-template-rows: 2;
+  gap: 20px; /* Adds spacing between grid items */
+}
+
+/* Optional styling for items */
+.grid-item {
+  background-color: #f0f0f0;
+  border-radius: 8px; /* Rounds all 4 corners of each item */
+  padding: 20px;
+  text-align: left;
+}
