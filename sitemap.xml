@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://AminBoumerdassi.github.io/talks_and_posters.html</loc>
-    <lastmod>2026-09-08T10:41:09.173Z</lastmod>
+    <loc>https://AminBoumerdassi.github.io/past_works.html</loc>
+    <lastmod>2026-09-09T10:32:00.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AminBoumerdassi.github.io/credits.html</loc>
+    <lastmod>2026-09-09T10:32:00.826Z</lastmod>
   </url>
   <url>
     <loc>https://AminBoumerdassi.github.io/index.html</loc>
-    <lastmod>2026-09-08T10:41:09.173Z</lastmod>
+    <lastmod>2026-09-09T10:32:00.826Z</lastmod>
   </url>
   <url>
     <loc>https://AminBoumerdassi.github.io/publications.html</loc>
-    <lastmod>2026-09-08T10:41:09.173Z</lastmod>
+    <lastmod>2026-09-09T10:32:00.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AminBoumerdassi.github.io/talks_and_posters.html</loc>
+    <lastmod>2026-09-09T10:32:00.826Z</lastmod>
   </url>
 </urlset>
