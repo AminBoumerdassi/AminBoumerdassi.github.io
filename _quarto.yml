@@ -12,7 +12,14 @@ website:
       - publications.qmd
       - href: talks_and_posters.qmd
         text: Talks & Posters
+      - href: past_works.qmd
+        text: Past works
       - text: CV (TBA)
+    right:
+      - href: credits.qmd
+        text: Credits
+      - href: https://github.com/AminBoumerdassi/AminBoumerdassi.github.io
+        text: "Source code {{< fa brands github >}}"
   page-footer:
     background: light
     left: "Copyright 2026, Amin Boumerdassi" 
@@ -28,11 +35,9 @@ format:
     css: styles.css
     toc: true
 
-# Use https://heropatterns.com/ for background, specifically "topography"
 
 filters:
   - auto-dark
 
 execute:
   freeze: auto
-

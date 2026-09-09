@@ -1,0 +1,8 @@
+---
+title: "Credits"
+---
+
+- This website was built using [Quarto](https://quarto.org/), an "open source technical publishing system".
+- This website is freely hosted on [GitHub Pages](https://docs.github.com/en/pages).
+- The website structure draws inspiration from the [HugoBlox Academic](https://hugoblox.com/hugo-academic) template.
+- The website background came from [Hero Patterns](https://heropatterns.com/).

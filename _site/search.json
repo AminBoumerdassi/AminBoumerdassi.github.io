@@ -32,14 +32,14 @@
     "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612067726164756174696f6e2d636170203e7d7d-education",
     "title": "Amin BoumerdassiEarly career researcher",
     "section": " | Education",
-    "text": "| Education\n\n\nPhD in Physics (Dec 2022 - Jun 2026)The University of Auckland, New Zealand\n\n\nIntegated Masters in Physics (Sep 2018 - Jun 2022)Cardiff University, United Kingdom"
+    "text": "| Education\n\n\n\nPhD in Physics (Dec 2022 - Jun 2026)The University of Auckland, New Zealand\n\n\nIntegated Masters in Physics (Sep 2018 - Jun 2022)Cardiff University, United Kingdom"
   },
   {
     "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-experience",
     "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-experience",
     "title": "Amin BoumerdassiEarly career researcher",
     "section": " | Experience",
-    "text": "| Experience\n\n\nGraduate Teaching Assistant (2023 - 2025)The University of Auckland, New Zealand\n\n\nDemonstrator (2021 - 2022)Cardiff University, United Kingdom"
+    "text": "| Experience\n\n\n\nGraduate Teaching Assistant (2023 - 2025)The University of Auckland, New Zealand\n\n\nDemonstrator (2021 - 2022)Cardiff University, United Kingdom"
   },
   {
     "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120696d6167652d706f727472616974203e7d7d-summary",
@@ -54,5 +54,19 @@
     "title": "Talks & Posters",
     "section": "",
     "text": "Include a list of past talks and posters! Perhaps this can be done in a bibliography style?"
+  },
+  {
+    "objectID": "past_works.html",
+    "href": "past_works.html",
+    "title": "Past works",
+    "section": "",
+    "text": "Here we’ll briefly describe past projects and include links to relevant github repos."
+  },
+  {
+    "objectID": "credits.html",
+    "href": "credits.html",
+    "title": "Credits",
+    "section": "",
+    "text": "This website was built using Quarto, an “open source technical publishing system”.\nThis website is freely hosted on GitHub Pages.\nThe website structure draws inspiration from the HugoBlox Academic template.\nThe website background came from Hero Patterns."
   }
 ]

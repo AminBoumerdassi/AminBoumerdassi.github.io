@@ -11,5 +11,11 @@
   },
   "talks_and_posters.qmd": {
     "talks_and_posters.html": "f53bd02c"
+  },
+  "past_works.qmd": {
+    "past_works.html": "1cb1cc00"
+  },
+  "credits.qmd": {
+    "credits.html": "b413935a"
   }
 }

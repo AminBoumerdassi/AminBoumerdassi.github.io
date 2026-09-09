@@ -44,15 +44,23 @@ My contributions will help to facilitate proposed tests of general relativity an
 
 :::
 
-## {{< fa graduation-cap >}} | Education
+***
+
+## {{< fa graduation-cap >}} | Education{.center-heading}
+
+***
+
 
 <div class="grid-container">
   <div class="grid-item">**PhD in Physics** (Dec 2022 - Jun 2026)<br>*The University of Auckland, New Zealand*</div>
   <div class="grid-item">**Integated Masters in Physics** (Sep 2018 - Jun 2022)<br>*Cardiff University, United Kingdom*</div>
 </div>
 
+***
 
-## {{< fa briefcase >}} | Experience
+## {{< fa briefcase >}} | Experience{.center-heading}
+
+***
 
 <div class="grid-container">
   <div class="grid-item">**Graduate Teaching Assistant** (2023 - 2025)<br>*The University of Auckland, New Zealand*</div>
