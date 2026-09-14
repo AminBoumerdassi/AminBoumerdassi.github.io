@@ -14,7 +14,8 @@ website:
         text: Talks & Posters
       - href: past_works.qmd
         text: Past works
-      - text: CV (TBA)
+      - href: assets/my_academic_cv.pdf
+        text: CV
     right:
       - href: credits.qmd
         text: Credits

@@ -9,7 +9,7 @@
 
 /* Optional styling for items */
 .grid-item {
-  background-color: #f0f0f0;
+  background-color: #f8f7f3;
   border: 3px solid #000000;
   border-radius: 8px; /* Rounds all 4 corners of each item */
   padding: 20px;
@@ -48,3 +48,4 @@ body {
   /* Fallback background color in case the image fails to load */
   background-color: #dbe5dc; 
 }
+

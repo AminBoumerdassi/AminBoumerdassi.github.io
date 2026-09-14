@@ -52,8 +52,8 @@ My contributions will help to facilitate proposed tests of general relativity an
 
 
 <div class="grid-container">
-  <div class="grid-item">**PhD in Physics** (Dec 2022 - Jun 2026)<br>*The University of Auckland, New Zealand*</div>
-  <div class="grid-item">**Integated Masters in Physics** (Sep 2018 - Jun 2022)<br>*Cardiff University, United Kingdom*</div>
+  <div class="grid-item">**PhD in Physics** <br>*The University of Auckland, New Zealand*<br><br>Thesis: Bayesian Tools and Machine Learning Methods for Gravitational Wave Data Analysis of Extreme Mass-ratio Inspirals</div>
+  <div class="grid-item">**Integated Masters in Physics** <br>*Cardiff University, United Kingdom*<br><br>Thesis: Real-time Classification of Transient Gravitational-Wave Noise Using Convolutional Neural Networks</div>
 </div>
 
 ***
@@ -63,6 +63,7 @@ My contributions will help to facilitate proposed tests of general relativity an
 ***
 
 <div class="grid-container">
-  <div class="grid-item">**Graduate Teaching Assistant** (2023 - 2025)<br>*The University of Auckland, New Zealand*</div>
-  <div class="grid-item">**Demonstrator** (2021 - 2022)<br>*Cardiff University, United Kingdom*</div>
+  <div class="grid-item">**Graduate Teaching Assistant** (2023 - 2025)<br>*The University of Auckland, New Zealand*<br><br>Tutored and/or marked courses: [Probability and its Applications](https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=STATS%20125&p0_catalogue_year=2027&p0_catalogue_term=Summer) (STATS 125), [Data Analysis](https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=STATS%20201) (STATS 201/208), [Statistical Theory](https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=Stats%20210) (STATS 210).
+</div>
+  <div class="grid-item">**Demonstrator** (2021 - 2022)<br>*Cardiff University, United Kingdom*<br><br>Tutored course: Computational Physics (PX3143).</div>
 </div>

@@ -1,4 +1,14 @@
 ---
 title: "Past works"
 ---
-Here we'll briefly describe past projects and include links to relevant github repos.
+See below for past projects on my GitHub:
+
+[![](https://github-stats-extended.vercel.app/api/pin?username=AminBoumerdassi&repo=AminBoumerdassi%2FEMRI_denoising&show_owner=true&theme=light_github_repocard)](https://github.com/AminBoumerdassi/EMRI_denoising)
+
+[![](https://github-stats-extended.vercel.app/api/pin?username=AminBoumerdassi&repo=AminBoumerdassi%2FEMRI_signal_detection&show_owner=true&theme=light_github_repocard)](https://github.com/AminBoumerdassi/EMRI_signal_detection)
+
+
+[![](https://github-stats-extended.vercel.app/api/pin?username=AminBoumerdassi&repo=TGWN-AnomalyDetection&show_owner=true&theme=light_github_repocard)](https://github.com/AminBoumerdassi/TGWN-AnomalyDetection)
+
+
+[![](https://github-stats-extended.vercel.app/api/pin?username=AminBoumerdassi&repo=GWG-classifier&show_owner=true&theme=light_github_repocard)](https://github.com/AminBoumerdassi/GWG-classifier)
