@@ -7,13 +7,13 @@ title: "Talks & Posters"
 ---
 
 <div class="grid-container">
-  <div class="grid-item">**NZ Gravity Spring 2025 Workshop** <br>*Dunedin, NZ*<br>Talk: "Assessing glitch-induced bias and variability in EMRI parameter estimation"
+  <div class="grid-item">**NZ Gravity Spring 2025 Workshop** <br>*Dunedin, NZ*<br>Talk: "[Assessing glitch-induced bias and variability in EMRI parameter estimation](assets/NZGravity_UoO%20presentation.pdf)"
   </div>
 </div>
 <br>
 
 <div class="grid-container">
-  <div class="grid-item">**NZ Gravity Autumn 2025 Workshop** <br>*Auckland, NZ*<br>Talk: "EMRIs and their role in GW science"
+  <div class="grid-item">**NZ Gravity Autumn 2025 Workshop** <br>*Auckland, NZ*<br>Talk: "[EMRIs and their role in GW science](assets/EMRI_and_GW_science_NZ_grav_UoA_2025.pdf)"
   </div>
 </div>
 <br>
@@ -23,25 +23,25 @@ title: "Talks & Posters"
 ---
 
 <div class="grid-container">
-  <div class="grid-item">**New Zealand Statistical Association Conference**<br>*Wellington, NZ*<br>Talk: "Investigating the impact of gravitational wave glitches on the parameter estimation of extreme mass ratio inspirals"
+  <div class="grid-item">**New Zealand Statistical Association Conference**<br>*Wellington, NZ*<br>Talk: "[Investigating the impact of gravitational wave glitches on the parameter estimation of extreme mass ratio inspirals](assets/NZSA2024%20presentation.pdf)"
   </div>
 </div>
 <br>
 
 <div class="grid-container">
-  <div class="grid-item">**New Zealand Mathematics and Statistics Postgraduate Conference**<br>*Christchurch, NZ*<br>Talk: "Investigating the impact of gravitational wave glitches on the parameter estimation of extreme mass ratio inspirals"
+  <div class="grid-item">**New Zealand Mathematics and Statistics Postgraduate Conference**<br>*Christchurch, NZ*<br>Talk: "[Investigating the impact of gravitational wave glitches on the parameter estimation of extreme mass ratio inspirals](assets/NZSA2024%20presentation.pdf)"
   </div>
 </div>
 <br>
 
 <div class="grid-container">
-  <div class="grid-item">**15th International LISA Symposium**<br>*Dublin, Ireland*<br>Poster: "Signal Detection of EMRIs with Convolutional Autoencoders"
+  <div class="grid-item">**15th International LISA Symposium**<br>*Dublin, Ireland*<br>Poster: "[Signal Detection of EMRIs with Convolutional Autoencoders](assets/LISA_symposium_poster.pdf)"
   </div>
 </div>
 <br>
 
 <div class="grid-container">
-  <div class="grid-item">**NZ Gravity Summer 2024 Workshop** <br>*Auckland, NZ*<br>Talk: "Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission"
+  <div class="grid-item">**NZ Gravity Summer 2024 Workshop** <br>*Auckland, NZ*<br>Talk: "[Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission](assets/Amin_B_NZMASP_NZSA_presentation.pdf)"
   </div>
 </div>
 <br>
@@ -51,13 +51,13 @@ title: "Talks & Posters"
 ---
 
 <div class="grid-container">
-  <div class="grid-item">**New Zealand Statistical Association Conference**<br>*Christchurch, NZ*<br>Talk: "Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission"
+  <div class="grid-item">**New Zealand Statistical Association Conference**<br>*Christchurch, NZ*<br>Talk: "[Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission](assets/Amin_B_NZMASP_NZSA_presentation.pdf)"
   </div>
 </div>
 <br>
 
 <div class="grid-container">
-  <div class="grid-item">**New Zealand Mathematics and Statistics Postgraduate Conference**<br>*Wellington, NZ*<br>Talk: "Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission"
+  <div class="grid-item">**New Zealand Mathematics and Statistics Postgraduate Conference**<br>*Wellington, NZ*<br>Talk: "[Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission](assets/Amin_B_NZMASP_NZSA_presentation.pdf)"
   </div>
 </div>
 <br>
