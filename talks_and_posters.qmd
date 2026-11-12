@@ -7,7 +7,7 @@ title: "Talks & Posters"
 ---
 
 <div class="grid-container">
-  <div class="grid-item">**NZ Gravity Spring 2026 Workshop** <br>*Auckland, NZ*<br>Talk: "[Wavelet-domain Masking of Instrumental Noise Artefacts from Extreme Mass Ratio Inspirals](assets/NZGravity_UoA_presentation.pdf.pdf)"
+  <div class="grid-item">**NZ Gravity Spring 2026 Workshop** <br>*Auckland, NZ*<br>Talk: "[Wavelet-domain Masking of Instrumental Noise Artefacts from Extreme Mass Ratio Inspirals](assets/NZGravity_UoA_presentation.pdf)"
   </div>
 </div>
 <br>
