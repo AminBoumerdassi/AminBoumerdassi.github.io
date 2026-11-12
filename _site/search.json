@@ -53,7 +53,7 @@
     "href": "talks_and_posters.html",
     "title": "Talks & Posters",
     "section": "",
-    "text": "NZ Gravity Spring 2025 Workshop Dunedin, NZTalk: “Assessing glitch-induced bias and variability in EMRI parameter estimation”\n\n\n\n\n\nNZ Gravity Autumn 2025 Workshop Auckland, NZTalk: “EMRIs and their role in GW science”"
+    "text": "NZ Gravity Spring 2026 Workshop Auckland, NZTalk: “Wavelet-domain Masking of Instrumental Noise Artefacts from Extreme Mass Ratio Inspirals”"
   },
   {
     "objectID": "past_works.html",
@@ -74,18 +74,25 @@
     "href": "talks_and_posters.html#section",
     "title": "Talks & Posters",
     "section": "",
-    "text": "NZ Gravity Spring 2025 Workshop Dunedin, NZTalk: “Assessing glitch-induced bias and variability in EMRI parameter estimation”\n\n\n\n\n\nNZ Gravity Autumn 2025 Workshop Auckland, NZTalk: “EMRIs and their role in GW science”"
+    "text": "NZ Gravity Spring 2026 Workshop Auckland, NZTalk: “Wavelet-domain Masking of Instrumental Noise Artefacts from Extreme Mass Ratio Inspirals”"
   },
   {
     "objectID": "talks_and_posters.html#section-1",
     "href": "talks_and_posters.html#section-1",
     "title": "Talks & Posters",
-    "section": "2024",
-    "text": "2024\n\n\n\nNew Zealand Statistical Association ConferenceWellington, NZTalk: “Investigating the impact of gravitational wave glitches on the parameter estimation of extreme mass ratio inspirals”\n\n\n\n\n\nNew Zealand Mathematics and Statistics Postgraduate ConferenceChristchurch, NZTalk: “Investigating the impact of gravitational wave glitches on the parameter estimation of extreme mass ratio inspirals”\n\n\n\n\n\n15th International LISA SymposiumDublin, IrelandPoster: “Signal Detection of EMRIs with Convolutional Autoencoders”\n\n\n\n\n\nNZ Gravity Summer 2024 Workshop Auckland, NZTalk: “Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission”"
+    "section": "2025",
+    "text": "2025\n\n\n\nNZ Gravity Spring 2025 Workshop Dunedin, NZTalk: “Assessing glitch-induced bias and variability in EMRI parameter estimation”\n\n\n\n\n\nNZ Gravity Autumn 2025 Workshop Auckland, NZTalk: “EMRIs and their role in GW science”"
   },
   {
     "objectID": "talks_and_posters.html#section-2",
     "href": "talks_and_posters.html#section-2",
+    "title": "Talks & Posters",
+    "section": "2024",
+    "text": "2024\n\n\n\nNew Zealand Statistical Association ConferenceWellington, NZTalk: “Investigating the impact of gravitational wave glitches on the parameter estimation of extreme mass ratio inspirals”\n\n\n\n\n\nNew Zealand Mathematics and Statistics Postgraduate ConferenceChristchurch, NZTalk: “Investigating the impact of gravitational wave glitches on the parameter estimation of extreme mass ratio inspirals”\n\n\n\n\n\n15th International LISA SymposiumDublin, IrelandPoster: “Signal Detection of EMRIs with Convolutional Autoencoders”\n\n\n\n\n\nNZ Gravity Summer 2024 Workshop Auckland, NZTalk: “Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission”"
+  },
+  {
+    "objectID": "talks_and_posters.html#section-3",
+    "href": "talks_and_posters.html#section-3",
     "title": "Talks & Posters",
     "section": "2023",
     "text": "2023\n\n\n\nNew Zealand Statistical Association ConferenceChristchurch, NZTalk: “Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission”\n\n\n\n\n\nNew Zealand Mathematics and Statistics Postgraduate ConferenceWellington, NZTalk: “Using Convolutional Autoencoders for Signal Detection of Extreme Mass Ratio Inspirals Detected by the LISA Mission”"
